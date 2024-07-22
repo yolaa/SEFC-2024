@@ -1,0 +1,10 @@
+<!DOCTYPE html> // memastikan file yg dibuat terbaca dengan HTML 5 oleh browser
+<html> // setiap ngoding diperhatikan tag nya
+        <head>
+            <title> website ku, wrote by yola </title>
+        </head>
+         
+        <body>
+            <h1>hello world</h1>
+        </body>
+</html>
