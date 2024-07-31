@@ -1,0 +1,52 @@
+element.style {
+height: 25 px;
+width: 25 px;
+border: 1 px solid;
+background-image: url(
+https://picsum.photos/150);
+}
+
+logo.icon {
+    border: 1px solid;
+    background-image: url(
+    https://picsum.photos/150);
+    height: 25 px;
+    width: 25 px;
+}
+
+article {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.nav-container {
+display: flex;
+}
+
+.nav-item {
+    border: 1px solid;
+    padding: 8px;
+}
+
+
+.main-title {
+    text-align: center;
+}
+
+.main-content {
+    display: flex;
+}
+
+.main-content-item {
+    border: 1px solid;
+    width: 100 px;
+    height: 250 px;
+}
+
+.main-content-banner {
+    border: 1px solid;
+    width: 100 px;
+    height: 150 px;
+    background-image: url(https://picsum.photos/150);
+}
+
